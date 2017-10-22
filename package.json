@@ -1,10 +1,11 @@
 {
-  "name": "3rdp_bp",
+  "name": "webpack_bp",
   "version": "1.0.0",
-  "description": "3rd party javascript boilerplate",
+  "description": "webpack boilerplate",
   "main": "index.js",
   "author": "Andre Bautista",
   "license": "MIT",
+  "repository": "https://github.com/andrebautista/webpack_bp.git",
   "dependencies": {
     "react": "^16.0.0"
   },
